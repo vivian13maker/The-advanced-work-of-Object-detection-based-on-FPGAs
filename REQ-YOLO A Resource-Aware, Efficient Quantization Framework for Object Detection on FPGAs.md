@@ -1,4 +1,4 @@
-#REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs
+# REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs
 
 ## ABSTRACT
 
