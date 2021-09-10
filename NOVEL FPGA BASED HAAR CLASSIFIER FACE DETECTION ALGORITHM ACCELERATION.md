@@ -20,5 +20,5 @@ Fourth, they design our FPGA implementation for the Haar classifier function wit
 
 ## Performance
 
-![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905231747)
+![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910202144.png)
 
