@@ -5,7 +5,7 @@ The article demonstrates the usefulness of heterogeneous System on Chip (SoC) de
 
 ## Keywords
 
-Intelligent Transportation Systems · Hardware-software image processing (Zynq SoC) · Vehicle queue length estimation  Vehicle detection  Vehicle type and colour recognition
+Intelligent Transportation Systems · Hardware-software image processing (Zynq SoC) · Vehicle queue length estimation · Vehicle detection · Vehicle type and colour recognition
 
 ## Contribution
 
