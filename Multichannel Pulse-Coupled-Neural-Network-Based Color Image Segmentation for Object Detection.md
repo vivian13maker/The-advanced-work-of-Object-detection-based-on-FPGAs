@@ -14,7 +14,7 @@ In this paper, they propose an improved PCNN model to perform color image segmen
 
 ## The overall design of the Framework
 
-![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905231722)
+![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910202343.png)
 
 ## Performance
 
