@@ -1,6 +1,6 @@
 # A Flexible Parallel Hardware Architecture for AdaBoost-Based Real-Time Object Detection
 
-## **ABSTRACT** 
+## ABSTRACT 
 
 Real-time object detection is becoming necessary for a wide number of applications related to computer vision and image processing, security, bioinformatics, and several other areas. Existing software implementations of object detection algorithms are constrained in small-sized images and rely on favorable conditions in the image frame to achieve real-time detection frame rates. Efforts to design hardware architectures have yielded encouraging results, yet are mostly directed towards a single application, targeting specific operating environments. Consequently, there is a need for hardware architectures capable of detecting several objects in large image frames, and which can be used under several object detection scenarios. In this work, we present a generic, flexible parallel architecture, which is suitable for all ranges of object detection applications and image sizes. The architecture implements the AdaBoost-based detection algorithm, which is considered one of the most efficient object detection algorithms. Through both field-programmable gate array emulation and large-scale implementation, and register transfer level synthesis and simulation, we illustrate that the architecture can detect objects in large images(up to 1024×768 pixels) with frame rates that can vary between 64–139 fps for various applications and input image frame sizes.
 
@@ -14,11 +14,11 @@ The architecture proposed in this work is based on a massively parallel systolic
 
 ## The overall design of the Framework
 
-![image-20210905184826795](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905223254)
+![image-20210905184826795](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910202616.png)
 
 ## Performance
 
-![image-20210905184911854](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905223239)
+![image-20210905184911854](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910202647.png)
 
-![image-20210905184942828](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905223116)
+![image-20210905184942828](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910202713.png)
 
