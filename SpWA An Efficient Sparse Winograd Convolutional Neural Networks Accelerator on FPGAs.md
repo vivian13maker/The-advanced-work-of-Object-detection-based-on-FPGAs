@@ -1,4 +1,4 @@
-#SpWA: An Efficient Sparse Winograd Convolutional Neural Networks Accelerator on FPGAs
+# SpWA: An Efficient Sparse Winograd Convolutional Neural Networks Accelerator on FPGAs
 ## ABSTRACT
 
 FPGAs have been an efficient accelerator for CNN inference due to its high performance, flexibility, and energy-efficiency. To improve the performance of CNNs on FPGAs, fast algorithms and sparse methods emerge as the most attractive alternatives, which can effectively reduce the complexity of CNNs. Using fast algorithms, the feature maps are transformed to special domain to reduce the arithmetic complexity. On the other hand, compressing CNN models by pruning the unimportant connections reduces both storage and arithmetic complexity.
