@@ -1,6 +1,6 @@
 # Multichannel Pulse-Coupled-Neural-Network-Based Color Image Segmentation for Object Detection
 
-## **ABSTRACT** 
+## ABSTRACT
 
 This paper proposes a pulse-coupled neural network(PCNN) with multichannel (MPCNN) linking and feeding fields for color image segmentation. Different from the conventional PCNN, pulse-based radial basis function units are introduced into the model neurons of PCNN to determine the fast links among neurons with respect to their spectral feature vectors and spatial proximity. The computing of the color image segmentation can be implemented in parallel on a field-programmable-gate-array chip. Furthermore, the results of segmentations are applied to an object-detection scheme. Experimental results show that the performance of the proposed MPCNN is comparable to those of other popular image segmentation algorithms for the segmentation of noisy images while its parallel neural circuits improve the speed of processing drastically as compared with the sequential-code-based counterparts.
 
@@ -14,7 +14,7 @@ In this paper, they propose an improved PCNN model to perform color image segmen
 
 ## The overall design of the Framework
 
-![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905231722)
+![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905231722.png)
 
 ## Performance
 
