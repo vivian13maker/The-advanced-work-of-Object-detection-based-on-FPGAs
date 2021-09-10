@@ -1,4 +1,4 @@
-#A Flexible Parallel Hardware Architecture for AdaBoost-Based Real-Time Object Detection
+# A Flexible Parallel Hardware Architecture for AdaBoost-Based Real-Time Object Detection
 
 ## **ABSTRACT** 
 
