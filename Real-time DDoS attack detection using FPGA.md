@@ -1,4 +1,4 @@
-#Real-time DDoS attack detection using FPGA
+# Real-time DDoS attack detection using FPGA
 ## ABSTRACT
 
 A real-time DDoS attack detection method should identify attacks with low computational overhead. Although a large number of statistical methods have been designed for DDoS attack detection, real-time statistical solution to detect DDoS attacks in hardware is only a few. In this paper, a real-time DDoS detection method is proposed that uses a novel correlation measure to identify DDoS attacks. Effectiveness of the method is evaluated with three network datasets, viz., CAIDA DDoS 2007, MIT DARPA, and TUIDS. Further, the proposed method is implemented on an FPGA to analyze its performance. The method yields high detection accuracy and the FPGA implementation requires less than one microsecond to identify an attack.
