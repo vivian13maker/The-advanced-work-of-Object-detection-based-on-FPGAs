@@ -1,6 +1,6 @@
 # NOVEL FPGA BASED HAAR CLASSIFIER FACE DETECTION ALGORITHM ACCELERATION
 
-## **ABSTRACT** 
+## ABSTRACT
 
 We present here a novel approach to use FPGA to accelerate the Haar-classifier based face detection algorithm. With highly pipelined microarchitecture and utilizing abundant parallel arithmetic units in the FPGA, we’ve achieved real-time performance of face detection having very high detection rate and low false positives. Moreover, our approach is flexible toward the resources available on the FPGA chip. This work also provides us an understanding toward using FPGA for implementing non-systolic based vision algorithm acceleration. Our implementation is realized on a HiTech Global PCIe card that contains a Xilinx XC5VLX110T FPGA chip. 
 
@@ -16,7 +16,7 @@ Fourth, they design our FPGA implementation for the Haar classifier function wit
 
 ## The overall design of the Framework
 
-![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210905231740)
+![img](https://gitee.com/feiyipengfei/pic-md1/raw/master/20210910201552.png)
 
 ## Performance
 
