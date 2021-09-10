@@ -1,4 +1,4 @@
-#A Novel FPGA Accelerator Design for Real-Time and Ultra-Low Power Deep Convolutional Neural Networks Compared With Titan X GPU
+# A Novel FPGA Accelerator Design for Real-Time and Ultra-Low Power Deep Convolutional Neural Networks Compared With Titan X GPU
 
 ## ABSTRACT
 
@@ -10,8 +10,8 @@ Deep neural network accelerator, FPGA, pipeline architecture, parallel computing
 
 ## Contribution
 
--  They analyze in detail the data dependency in the CNN accelerator and present a high throughput CNN-based FPGA accelerator. Specifically, they use a pipelined MAC operation structure to remove loop-carried data dependency. They also propose the zigzag fetch unit to remove line data dependency.
--  To achieve a high power efficiency, we propose the offline preprocessing and combination of batch normalization (BN) and scale/bias (SB) and approximation expression for kernel computation.
+- They analyze in detail the data dependency in the CNN accelerator and present a high throughput CNN-based FPGA accelerator. Specifically, they use a pipelined MAC operation structure to remove loop-carried data dependency. They also propose the zigzag fetch unit to remove line data dependency.
+- To achieve a high power efficiency, we propose the offline preprocessing and combination of batch normalization (BN) and scale/bias (SB) and approximation expression for kernel computation.
 - They have applied the CNN accelerator on advanced multi-object detection frameworks such as tiny YOLO V2 and full YOLO V2 . To acquire a high accuracy, they use 8-16 bits mixed fixed-point data representation in the object detection task and achieve comparable accuracy compared with Titan X GPU. The demo can be found in.
 - Their CNN accelerator provides a definable interface to reconfigure the new CNN model easily, and it supports the Caffe framework.
 
