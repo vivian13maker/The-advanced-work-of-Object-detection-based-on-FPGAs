@@ -1,6 +1,6 @@
 # The advanced work of Object detection based on FPGAs
 
-This repository provides an up-to-date the list of studies addressing imbalance problems in object detection. It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
+This repository provides an up-to-date the list of studies, which is the advanced work of object detection based on FPGAs. We plan to update the platform in the long term. It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
 
 Tao S, Kai Z, Zhe C, Qian M, Jiawen W, Lu W, "FPGA-based accelerator for object detection:A comprehensive review"
 
@@ -46,3 +46,5 @@ Following the methodology in our paper, the papers should be designed for the ge
 - [Sparse-YOLO: Hardware/Software Co-Design of an FPGA Accelerator for YOLOv2](https://github.com/vivian13maker/FPGA-based-accelerator-for-object-detection-A-comprehensive-review/blob/main/Sparse-YOLO%20HardwareSoftware%20Co-Design%20of%20an%20FPGA%20Accelerator%20for%20YOLOv2.md#sparse-yolo-hardwaresoftware-co-design-of-an-fpga-accelerator-for-yolov2), [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122495)
 - [LACS: A High-Computational-Efficiency Accelerator for CNNs](https://github.com/vivian13maker/FPGA-based-accelerator-for-object-detection-A-comprehensive-review/blob/main/LACS%20A%20High-Computational-Efficiency%20Accelerator%20for%20CNNs.md#lacs-a-high-computational-efficiency-accelerator-for-cnns), [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8944026)
 
+# Contact
+Please contact Qian M (kmust_mzq@126.com) for your questions about this webpage.
