@@ -1,4 +1,4 @@
-# The advanced work of Object detection based on FPGAs
+# The advanced works of Object detection based on FPGAs
 
 This repository provides an up-to-date the list of studies, which is the advanced work of object detection based on FPGAs. We plan to update the platform in the long term. It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
 
