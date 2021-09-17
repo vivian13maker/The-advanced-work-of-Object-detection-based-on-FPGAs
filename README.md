@@ -12,7 +12,7 @@ This article is not fully published, please follow the copyright information to 
 1. [Target detection under traditional methods](#1-target-detection-under-traditional-methods)
 2. [Target detection under the deep learning method](#2-target-detection-under-the-deep-learning-method)
 
-# 1. Target detection under traditional methods
+# 1. Object detection under traditional methods
 
 - [NOVEL FPGA BASED HAAR CLASSIFIER FACE DETECTION ALGORITHM ACCELERATION](https://github.com/vivian13maker/FPGA-based-accelerator-for-object-detection-A-comprehensive-review/blob/main/NOVEL%20FPGA%20BASED%20HAAR%20CLASSIFIER%20FACE%20DETECTION%20ALGORITHM%20ACCELERATION.md#novel-fpga-based-haar-classifier-face-detection-algorithm-acceleration), [[paper]](https://www.researchgate.net/profile/Shih-Lien-Lu/publication/4375375_Novel_FPGA_based_Haar_classifier_face_detection_algorithm_acceleration/links/0fcfd50933e992036b000000/Novel-FPGA-based-Haar-classifier-face-detection-algorithm-acceleration.pdf?origin=publication_detail)
 - [Multichannel Pulse-Coupled-Neural-Network-Based Color Image Segmentation for Object Detection](https://github.com/vivian13maker/FPGA-based-accelerator-for-object-detection-A-comprehensive-review/blob/main/Multichannel%20Pulse-Coupled-Neural-Network-Based%20Color%20Image%20Segmentation%20for%20Object%20Detection.md#multichannel-pulse-coupled-neural-network-based-color-image-segmentation-for-object-detection), [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5991960)
