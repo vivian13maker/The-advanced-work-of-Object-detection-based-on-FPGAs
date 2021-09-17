@@ -4,11 +4,9 @@ This repository provides an up-to-date the list of studies, which is the advance
 
 Tao S, Kai Z, Zhe C, Qian M, Jiawen W, Lu W, "FPGA-based accelerator for object detection:A comprehensive review"
 
-## How to request addition of a paper
-
-If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request. In your pull request please briefly state which section of your paper is related to which problem.
-
-Following the methodology in our paper, the papers should be designed for the generic object detection problem (i.e. reporting results on generic object detection datasets such as ILSVRC, Pascal VOC, MS-COCO, Open Images, Objects 365 etc.).
+## 4/5000 
+Copyright issues
+This article is not fully published, please follow the copyright information to quote the article we introduced.
 
 # Table of Contents (Follows the taxonomy in the paper)
 
