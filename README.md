@@ -4,8 +4,7 @@ This repository provides an up-to-date the list of studies, which is the advance
 
 Tao S, Kai Z, Zhe C, Qian M, Jiawen W, Lu W, "FPGA-based accelerator for object detection:A comprehensive review"
 
-## 4/5000 
-Copyright issues
+## Copyright issues
 This article is not fully published, please follow the copyright information to quote the article we introduced.
 
 # Table of Contents (Follows the taxonomy in the paper)
